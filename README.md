@@ -64,7 +64,7 @@ You will be evaluated on:
 
 Please submit your solution in the 2025 Fall interview GitHub repository via GitHub Issue.
 
-1. Navigate to the following link: https://github.com/rodrigoferreiramoura/SHWS-Winter2026-WSP-Challenge/issues/new?template=get-started.md
+1. Navigate to the following link: [https://github.com/rodrigoferreiramoura/SHWS-Winter2026-WSP-Challenge/issues/new?template=get-started.md](https://github.com/RodrigoFerreiraMoura/SHWS-Winter2026-WSP-Challenge-main/blob/master/.github/ISSUE_TEMPLATE/get-started.md)
 2. Change `YOUR_NAME` to your full name in the title field
 3. Fill out the form
 4. Click **Submit New Issue**
