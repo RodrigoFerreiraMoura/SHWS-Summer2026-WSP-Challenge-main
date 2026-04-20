@@ -5,7 +5,7 @@
 
 ## Student Health and Wellness Coding Challenge
 
-Welcome to the Student Health and Wellness coding challenge. Submission instructions are listed below. The deadline to submit this challenge is **Thursday January 15th, 9:00 AM**. We are looking for effort and creativity, and the challenge is just part of our discussion with you during the interview, so don’t worry if your solution is *hacky* or even if it doesn’t work, we want to see it!
+Welcome to the Student Health and Wellness coding challenge. Submission instructions are listed below. The deadline to submit this challenge is **Tuesday April 28th, 9:00 AM**. We are looking for effort and creativity, and the challenge is just part of our discussion with you during the interview, so don’t worry if your solution is *hacky* or even if it doesn’t work, we want to see it!
 
 
 ## The Challenge
@@ -64,7 +64,7 @@ You will be evaluated on:
 
 Please submit your solution in the 2026 Winter interview GitHub repository via GitHub Issue.
 
-1. Navigate to the following link: [https://github.com/rodrigoferreiramoura/SHWS-Winter2026-WSP-Challenge/issues/new?template=get-started.md](https://github.com/RodrigoFerreiraMoura/SHWS-Winter2026-WSP-Challenge-main/blob/master/.github/ISSUE_TEMPLATE/get-started.md)
+1. Navigate to the following link: [https://github.com/rodrigoferreiramoura/SHWS-Summer2026-WSP-Challenge/issues/new?template=get-started.md](https://github.com/RodrigoFerreiraMoura/SHWS-Summer2026-WSP-Challenge-main/blob/master/.github/ISSUE_TEMPLATE/get-started.md)
 2. Change `YOUR_NAME` to your full name in the title field
 3. Fill out the form
 4. Click **Submit New Issue**
