@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-# Submission for Winter SHWS WSP Tech Challenge
+# Submission for Summer SHWS WSP Tech Challenge
 
 ## Your name
 
